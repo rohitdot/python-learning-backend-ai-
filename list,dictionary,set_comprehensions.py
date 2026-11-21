@@ -1,6 +1,6 @@
 #LIST COMPREHENSION
 
-'''--->list comprehension is a bock or cod snippet which is used to create a new list with shorter syntaxes using a given list'''
+'''--->list comprehension is a block or code snippet which is used to create a new list with shorter syntaxes using a given list'''
 
 nums=[1,2,3,4,5,6,7,8,9,10]
 even_nums=[x for x in nums if x%2==0]
